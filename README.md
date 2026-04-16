@@ -1,4 +1,4 @@
-# live-speech-to-tex
+# live-speech-to-text
 
 A fast, real-time **Speech-to-Text** library that listens to your microphone and converts your voice into text — instantly.
 
