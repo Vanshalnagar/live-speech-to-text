@@ -1,4 +1,4 @@
-# RealtimeSTT
+# live-speech-to-tex
 
 A fast, real-time **Speech-to-Text** library that listens to your microphone and converts your voice into text — instantly.
 
@@ -140,8 +140,3 @@ RealtimeSTT/
 └── requirements.txt      # Dependencies
 ```
 
----
-
-## License
-
-MIT — free to use and modify.
